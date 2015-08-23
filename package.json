@@ -1,0 +1,8 @@
+{
+    "devDependencies": {
+        "imba": "*"
+    },
+    "scripts": {
+        "watch": "node_modules/imba/bin/imba watch src"
+    }
+}
